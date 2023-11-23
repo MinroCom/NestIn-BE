@@ -1,0 +1,140 @@
+[
+  {
+    "propertyId": "12345",
+    "propertyName": "Cozy Family Home",
+    "propertyType": "Single Family House",
+    "price": "350,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": "1,800 sqft",
+    "location": {
+      "address": "123 Main Street",
+      "city": "Exampleville",
+      "state": "CA",
+      "zipcode": "12345",
+      "country": "United States"
+    },
+    "description": "Property located in the countryside between Santa Gertrudis and San Miguel, surrounded by meadows and fruit fields, close to the beaches of the north of the island.\n\n",
+    "features": [
+      "Open-concept layout",
+      "Hardwood floors",
+      "Walk-in closets",
+      "Two-car garage",
+      "Central heating and cooling",
+      "Fenced backyard"
+    ],
+    "images": [
+      "image_url_1.jpg",
+      "image_url_2.jpg",
+      "image_url_3.jpg"
+    ],
+    "contact": {
+      "agentName": "John Smith",
+      "agentPhone": "(123) 456-7890",
+      "agentEmail": "john.smith@example.com"
+    }
+  },
+  {
+    "propertyId": "67890",
+    "propertyName": "Modern Downtown Loft",
+    "propertyType": "Condo",
+    "price": "500,000",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": "1,200 sqft",
+    "location": {
+      "address": "456 Elm Street",
+      "city": "Metropolis",
+      "state": "NY",
+      "zipcode": "56789",
+      "country": "United States"
+    },
+    "description": "Property located in the countryside between Santa Gertrudis and San Miguel, surrounded by meadows and fruit fields, close to the beaches of the north of the island.\n\n",
+    "features": [
+      "Open loft design",
+      "Floor-to-ceiling windows",
+      "Modern kitchen",
+      "Balcony with city view",
+      "Fitness center access"
+    ],
+    "images": [
+      "image_url_4.jpg",
+      "image_url_5.jpg",
+      "image_url_6.jpg"
+    ],
+    "contact": {
+      "agentName": "Emily Johnson",
+      "agentPhone": "(987) 654-3210",
+      "agentEmail": "emily.johnson@example.com"
+    }
+  },
+  {
+    "propertyId": "24680",
+    "propertyName": "Spacious Suburban House",
+    "propertyType": "Single Family House",
+    "price": "450,000",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": "2,200 sqft",
+    "location": {
+      "address": "789 Maple Avenue",
+      "city": "Suburbia",
+      "state": "TX",
+      "zipcode": "54321",
+      "country": "United States"
+    },
+    "description": "Property located in the countryside between Santa Gertrudis and San Miguel, surrounded by meadows and fruit fields, close to the beaches of the north of the island.\n\n",
+    "features": [
+      "Large backyard",
+      "Modern kitchen",
+      "Master suite with walk-in closet",
+      "Two-car garage",
+      "Fireplace",
+      "Patio"
+    ],
+    "images": [
+      "image_url_7.jpg",
+      "image_url_8.jpg",
+      "image_url_9.jpg"
+    ],
+    "contact": {
+      "agentName": "Michael Davis",
+      "agentPhone": "(555) 123-4567",
+      "agentEmail": "michael.davis@example.com"
+    }
+  },
+  {
+    "propertyId": "13579",
+    "propertyName": "Rustic Mountain Cabin",
+    "propertyType": "Cabin",
+    "price": "300,000",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": "1,000 sqft",
+    "location": {
+      "address": "10 Pine Trail",
+      "city": "Mountainville",
+      "state": "CO",
+      "zipcode": "24680",
+      "country": "United States"
+    },
+    "description": "Property located in the countryside between Santa Gertrudis and San Miguel, surrounded by meadows and fruit fields, close to the beaches of the north of the island.\n\n",
+    "features": [
+      "Wooden interior",
+      "Stone fireplace",
+      "Scenic mountain views",
+      "Deck",
+      "Hiking trails nearby"
+    ],
+    "images": [
+      "image_url_10.jpg",
+      "image_url_11.jpg",
+      "image_url_12.jpg"
+    ],
+    "contact": {
+      "agentName": "Linda Williams",
+      "agentPhone": "(555) 987-6543",
+      "agentEmail": "linda.williams@example.com"
+    }
+  }
+]

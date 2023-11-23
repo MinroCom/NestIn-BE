@@ -1,0 +1,34 @@
+{
+  "propertyId": "67890",
+  "propertyName": "Modern Downtown Loft",
+  "propertyType": "Condo",
+  "price": "500,000",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "area": "1,200 sqft",
+  "location": {
+    "address": "456 Elm Street",
+    "city": "Metropolis",
+    "state": "NY",
+    "zipcode": "56789",
+    "country": "United States"
+  },
+  "description": "Property located in the countryside between Santa Gertrudis and San Miguel, surrounded by meadows and fruit fields, close to the beaches of the north of the island.\n\n",
+  "features": [
+    "Open loft design",
+    "Floor-to-ceiling windows",
+    "Modern kitchen",
+    "Balcony with city view",
+    "Fitness center access"
+  ],
+  "images": [
+    "image_url_4.jpg",
+    "image_url_5.jpg",
+    "image_url_6.jpg"
+  ],
+  "contact": {
+    "agentName": "Emily Johnson",
+    "agentPhone": "(987) 654-3210",
+    "agentEmail": "emily.johnson@example.com"
+  }
+}
